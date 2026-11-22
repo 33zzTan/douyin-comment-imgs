@@ -16,7 +16,7 @@
 ## 安装
 
 1. 浏览器装 [Tampermonkey](https://www.tampermonkey.net/)（Edge / Chrome / Firefox 均可）
-2. 点这里安装脚本：[douyin-comment-imgs.user.js](https://raw.githubusercontent.com/你的用户名/仓库名/main/douyin-comment-imgs.user.js)
+2. 点这里安装脚本：[douyin-comment-imgs.user.js](https://raw.githubusercontent.com/33zzTan/douyin-comment-imgs/main/douyin-comment-imgs.user.js)
    （也可以在 Tampermonkey 里新建脚本，把 js 文件内容整段粘进去）
 3. 打开 <https://www.douyin.com>
 
